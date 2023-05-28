@@ -20,3 +20,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h3 align="center">You can also connect with me at :</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/fabricio-bertani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabricio-bertani" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/7432494" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7432494" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@fabricio-bertani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fabricio-bertani" height="30" width="40" />
+  </a>
+  <a href="https://dev.to/fabribertani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fabribertani" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/fabribertani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fabribertani" height="30" width="40" />
+  </a>
+</p>
+
+<h3 align="center">Or support:</h3>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/fabribertani">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fabribertani" />
+  </a>
+</p>
