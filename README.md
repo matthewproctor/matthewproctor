@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on maintaining the [Australian Postcode Database](https://github.com/matthewproctor/australianpostcodes)
 - 📫 How to reach me: [www.matthewproctor.com](www.matthewproctor.com)
 - 😄 Pronouns: He/Him
+- 🌱 There are a lot of old, obsolete projects here. Apart from the postcode database, most are unsupported.
 - ⚡ Fun fact: I was the first person to make a Lync phone call (Lync became Skype for Business which is now Teams) from the summit of Mt Kilimanjaro, Africa
 
 <!--
