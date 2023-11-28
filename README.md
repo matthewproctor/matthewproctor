@@ -1,6 +1,6 @@
-### Hi! 👋 This is my home on GitHub 
+### G'day! 👋  
 
-- 🔭 I’m currently working on maintaining the [Australian Postcode Database](https://github.com/matthewproctor/australianpostcodes)
+- 🔭 I’m currently maintaining the [Australian Postcode Database](https://github.com/matthewproctor/australianpostcodes)
 - 📫 How to reach me: [www.matthewproctor.com](www.matthewproctor.com)
 - 😄 Pronouns: He/Him
 - 🌱 There are a lot of old, obsolete projects here. Apart from the postcode database, most are unsupported.
